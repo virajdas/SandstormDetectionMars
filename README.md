@@ -1,14 +1,6 @@
-# Real-Time Hurricane Detection Using Satellite Imagery
+# Sandstorm Detection on Mars
 
-This project aims to develop a machine learning-based system for detecting hurricanes in real time using satellite imagery. By training a model on historical hurricane images, the system learns to identify visual patterns associated with hurricane formation. It then applies this knowledge to live satellite data, captured either through screen recording or direct feed, to monitor and analyze atmospheric conditions.
-
-The ultimate goal is to provide early visual indicators of hurricane development, supporting meteorological research and potentially aiding in disaster preparedness. This approach combines computer vision, real-time data processing, and deep learning to create a responsive and scalable detection tool.
-
-The dataset used for training the model is the Hurricane Image Classification Dataset (https://images.cv/dataset/hurricane-image-classification-dataset), which contains labeled satellite images of hurricanes and non-hurricane weather patterns.
-
-We are currently evaluating two approaches for the detection model:
-- **TensorFlow-based CNN** for image classification.
-- **YOLO (You Only Look Once)** for object detection and localization.
+This project aims to develop a machine learning-based system for detecting sand/dustorms on the Martian surface in order to more effectively pinpoint the best locations for potential human colonization.
 
 ## Team Roles and Responsibilities
 
