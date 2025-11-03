@@ -4,7 +4,15 @@ This project aims to develop a machine learning-based system for detecting sand/
 
 ## Contributing Team Members
 
-- **Viraj Das**
+- **Viraj**
 - **Aman**
 - **Adithi**
 - **Ryan**
+
+## Data Credits
+
+Credit for the dataset used goes to SahZaire (https://github.com/SahZaire/martian-dust-storm-prediction) on GitHub for processing the raw data from:
+ - MDAD
+ - MAVEN
+ - Mars Weather
+ - REMS Mars

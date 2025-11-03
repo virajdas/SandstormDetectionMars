@@ -1,2 +1,0 @@
-Images and Data from:
-https://images.cv/dataset/hurricane-image-classification-dataset
