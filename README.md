@@ -26,3 +26,9 @@ Credit for the dataset used goes to SahZaire (https://github.com/SahZaire/martia
  - MAVEN
  - Mars Weather
  - REMS Mars
+
+Ryan:
+Driving Question: “How can we design reliable systems to detect and predict sandstorms on Mars to protect future missions and habitats?” 
+
+Elevator Pitch: “Future Mars missions face a critical challenge: unpredictable sandstorms that can damage equipment, disrupt communication, and endanger human habitats. Our solution focuses on developing an advanced detection and prediction system using autonomous sensors and AI-driven models. By analyzing atmospheric data and real-time imaging, we aim to forecast storms before they strike, giving astronauts and rovers the time to take protective measures. This technology isn’t just about survival—it’s about enabling sustainable exploration and paving the way for long-term human presence on Mars.”
+
