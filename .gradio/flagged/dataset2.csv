@@ -1,0 +1,2 @@
+Ls,Month,Martian Year,Centroid Latitude,Centroid Longitude,Min Temp (°C),Max Temp (°C),Pressure (Pa),Confidence Interval,Missing Data,Mission Subphase,output,timestamp
+120,7,31,'-23.45,'-18.95,'-85,'-20,776,75,0,0,Prediction: No Storm (Confidence: 0.00),2025-11-20 18:14:39.907558
